@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10660" started-at="2018-07-28T20:13:56Z" finished-at="2018-07-28T20:14:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10660" started-at="2018-07-28T20:13:56Z" finished-at="2018-07-28T20:14:07Z">
+      <class name="testpages.ValidHomePage">
+        <test-method status="PASS" signature="testHomePage()[pri:0, instance:testpages.ValidHomePage@1e88b3c]" name="testHomePage" duration-ms="10620" started-at="2018-07-28T20:13:56Z" finished-at="2018-07-28T20:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+      </class> <!-- testpages.ValidHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
